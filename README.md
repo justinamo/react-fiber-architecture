@@ -10,7 +10,7 @@ Other key features include the ability to pause, abort, or reuse work as new upd
 
 ### About this document
 
-Fiber introduces several novel concepts that are difficult to grok solely by looking at code. This document began as a collection of notes I took as I followed along with Fiber's implementation in the React project. As it grew, I realized it may be a helpful resource for others, too.
+Fiber introduces several novel concepts that are difficult to discern solely by looking at code. This document began as a collection of notes I took as I followed along with Fiber's implementation in the React project. As it grew, I realized it may be a helpful resource for others, too.
 
 I'll attempt to use the plainest language possible, and to avoid jargon by explicitly defining key terms. I'll also link heavily to external resources when possible.
 
